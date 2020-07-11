@@ -33,3 +33,4 @@ async function scrapeProduct(url){
           console.log('Saved!');
         });
         }
+scrapeProduct('https://www.amazon.com/');
